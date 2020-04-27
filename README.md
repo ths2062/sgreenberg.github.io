@@ -10,7 +10,7 @@
 # My Homework For Today
 
 | Subject |  | Assignment |
-| :-----: |  | :--------: |
+| ------- |  | ---------- |
 | CompSci |  | Final Proj |
 | English |  | Read       |
 | Math    |  | Drop       |
