@@ -9,12 +9,12 @@
 
 # My Homework For Today
 
-|Subject|  |Assignment|
-|:-----:|  |:--------:|
-|CompSci|  |Final Proj|
-|English|  |Read      |
-|Math   |  |Drop      |
-|Euro   |  |Study     |
-|French |  |Drop      |
-|Chorus |  |Recording |
-|VE     |  |Recording |
+| Subject |  | Assignment |
+| :-----: |  | :--------: |
+| CompSci |  | Final Proj |
+| English |  | Read       |
+| Math    |  | Drop       |
+| Euro    |  | Study      |
+| French  |  | Drop       |
+| Chorus  |  | Recording  |
+| VE      |  | Recording  |
