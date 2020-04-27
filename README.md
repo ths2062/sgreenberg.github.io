@@ -9,18 +9,10 @@
 
 # My Homework For Today
 
-| Subject |  | Assignment |
-| ------- |  | ---------- |
-| CompSci |  | Final Proj |
-| English |  | Read       |
-| Math    |  | Drop       |
-| Euro    |  | Study      |
-| French  |  | Drop       |
-| Chorus  |  | Recording  |
-| VE      |  | Recording  |
-
-
-| First Header  | Second Header |
+|   Subject     |   Assigment   |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|    CompSci    | Final Project |
+|    English    |     Read      |
+|     Math      |     Drop      |
+|    French     |     Drop      |
+|     Euro      |     Study     |
